@@ -1,5 +1,8 @@
 _repo: The-Portrait-of-a-Lady---Volume-1_2833
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: James, Henry
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/113
     wikipedia: http://en.wikipedia.org/wiki/Henry_James
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2833#The-Portrait-of-a-Lady---Volume-1
 gutenberg_bookshelf:
 - Italy
 - Harvard Classics
